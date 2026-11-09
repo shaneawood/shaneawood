@@ -1,0 +1,25 @@
+[build]
+  command = "vite build"
+  publish = "dist/client"
+[dev]
+  command = "npm run dev"
+  targetPort = 3000
+  port = 8888
+
+# Keep links to the old Weebly page paths working.
+[[redirects]]
+  from = "/teaching.html"
+  to = "/teaching"
+  status = 301
+[[redirects]]
+  from = "/research.html"
+  to = "/research"
+  status = 301
+[[redirects]]
+  from = "/service.html"
+  to = "/service"
+  status = 301
+[[redirects]]
+  from = "/contact.html"
+  to = "/contact"
+  status = 301
