@@ -1,6 +1,6 @@
-# Shane A. Wood — personal academic website
+# Shane A. Wood 
 
-The personal site of Shane A. Wood, Associate Professor and Director of First-Year Composition in the Department of Writing and Rhetoric at the University of Central Florida. It replaces the earlier Weebly site (shaneawood.weebly.com) and carries over all of its content: bio, teaching, research, service, the books *On Response* and *Teachers Talking Writing*, the *Pedagogue* podcast, and a contact form.
+Associate Professor and Director of First-Year Composition in the Department of Writing and Rhetoric at the University of Central Florida
 
 ## Pages
 
